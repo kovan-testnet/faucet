@@ -1,6 +1,6 @@
 # Kovan Faucet
 
-The Kovan network is secured by preventing malicious actors from obtaining large amounts of Ether, but legitimate developers need to be bale to receive Ether to deploy and test contracts.
+The Kovan network is secured by preventing malicious actors from obtaining large amounts of Ether, but legitimate developers need to be able to receive Ether to deploy and test contracts.
 
 ## Icarus Faucet
 
