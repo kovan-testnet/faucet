@@ -1,8 +1,6 @@
 # Kovan Faucet
 
-If you have any issues, feel free to request to receive Kovan Ether using the gitter channel:
-
-https://gitter.im/kovan-testnet/faucet
+The Kovan network is secured by preventing malicious actors from obtaining large amounts of Ether, but legitimate developers need to be bale to receive Ether to deploy and test contracts.
 
 ## Icarus Faucet
 
@@ -12,4 +10,11 @@ First you must verify an account on the mainnet using pairty's SMS verification 
 
 Once you have registered your account, you can then simply visit http://icarus.parity.io/[your-verified-address] every 24 hours to receive your allowance (which will be sent to that account on the Kovan testnet).
 
+## Gitter Channel (Manual Github Verification)
+
+If you have any issues, feel free to request to receive Kovan Ether using the gitter channel:
+
+https://gitter.im/kovan-testnet/faucet
+
 *Watch this space for updates on Kovan faucet services.*
+
