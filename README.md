@@ -4,7 +4,7 @@ The Kovan network is secured by preventing malicious actors from obtaining large
 
 ## Icarus Faucet
 
-Pairty Technologies have set up a faucet service that requires your account to be registered via SMS using Parity. Any registered address can then receive 5 Kovan Ether ever 24.
+Pairty Technologies have set up a faucet service that requires your account to be registered via SMS using Parity. Any registered address can then receive 5 Kovan Ether every 24.
 
 First you must verify an account on the mainnet using pairty's SMS verification service. A video walkthrough is available at: https://youtu.be/99UucFzYCRc.
 
