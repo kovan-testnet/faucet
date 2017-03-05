@@ -1,7 +1,15 @@
 # Kovan Faucet
 
-Until we have an automated fuacet UI set up, you can request to receive Kovan Ether using the gitter channel:
+If you have any issues, feel free to request to receive Kovan Ether using the gitter channel:
 
 https://gitter.im/kovan-testnet/faucet
 
-[![Join the chat at https://gitter.im/kovan-testnet/faucet](https://badges.gitter.im/kovan-testnet/faucet.svg)](https://gitter.im/kovan-testnet/faucet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+## Icarus Faucet
+
+Pairty Technologies have set up a faucet service that requires your account to be registered via SMS using Parity. Any registered address can then receive 5 Kovan Ether ever 24 hours by visiting http://icarus.parity.io/[your-verified-address].
+
+Here is a video walkthrough of verifying an address using parity:
+
+[![Kovan Faucet: Part 1 - Account Verification ](http://img.youtube.com/vi/99UucFzYCRc/2.jpg)](http://www.youtube.com/watch?v=99UucFzYCRc "Kovan Faucet: Part 1 - Account Verification")
+
+Watch this space for updates on Kovan faucet services.
