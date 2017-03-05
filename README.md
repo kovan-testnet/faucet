@@ -8,7 +8,7 @@ https://gitter.im/kovan-testnet/faucet
 
 Pairty Technologies have set up a faucet service that requires your account to be registered via SMS using Parity. Any registered address can then receive 5 Kovan Ether ever 24.
 
-First you must verify an account on the mainnet using pairty's SMS verification service. A video walkthrough is available at: https://youtu.be/99UucFzYCRc
+First you must verify an account on the mainnet using pairty's SMS verification service. A video walkthrough is available at: https://youtu.be/99UucFzYCRc. We recommend you register using a fresh account with a small amount of Ether (as it will used as the recieving address on Kovan).
 
 Once you have registered your account, you can then simply visit http://icarus.parity.io/[your-verified-address] every 24 hours to receive your allowance (which will be sent to that account on the Kovan testnet).
 
