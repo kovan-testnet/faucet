@@ -19,7 +19,7 @@ Once you have registered your account, you can then simply visit http://icarus.p
 
 ## Gitter Channel (Manual Github Verification)
 
-If you want to request to receive Kovan Ether manually, please using the gitter channel:
+If you want to request to receive Kovan Ether manually (uptime is not guarunteed, and you may have to wait for a verifier to respond), please using the gitter channel:
 
 https://gitter.im/kovan-testnet/faucet
 
