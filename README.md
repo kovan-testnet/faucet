@@ -23,4 +23,19 @@ If you want to request to receive Kovan Ether manually, please using the gitter 
 
 https://gitter.im/kovan-testnet/faucet
 
+### Manual Github Verification Rates
+
+To reduce KETH getting into the hands of malicious parties, a restricted allowance of KETH is available.
+
+Based on your github activity, various amounts of Koven Ether will be sent based on your *ethereum-related* contributions:
+
+* 1 - No Issues / Repos / Commits
+* 5 - < 2 Issues / Repos / Commits 
+* 10 - < 5 Issues / Repos / Commits
+* 50 - < 20 Issues / Repos / Commits
+* 500 - 100+ Issues / Repos / Commits (or Community-Trusted Developer / Team)
+* 1000 - Major Community-Trusted Dapp Development Team
+
+Special requests can be made if justified.
+
 *Watch this space for updates on Kovan faucet services.*
