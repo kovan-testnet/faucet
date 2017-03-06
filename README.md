@@ -4,18 +4,10 @@ The Kovan network is secured by preventing malicious actors from obtaining large
 
 There are current 2 methods of receiving Kovan Ether:
 
-* Request Via Gitter (Manually Verified)
 * Icarus Faucet (SMS Verified, Automated)
+* Request Via Gitter (Manually Verified)
 
 Additional, more convienient faucet services will be added in due course (e.g. [CAPTCHA / Github OAuth](https://github.com/kovan-testnet/KIPs/issues/2)).
-
-## Gitter Channel (Manual Github Verification)
-
-If you have any issues, or want to request to receive Kovan Ether manually, please using the gitter channel:
-
-https://gitter.im/kovan-testnet/faucet
-
-*Watch this space for updates on Kovan faucet services.*
 
 ## Icarus Faucet (Automated SMS Verification)
 
@@ -25,3 +17,10 @@ First you must verify an account on the mainnet using pairty's SMS verification 
 
 Once you have registered your account, you can then simply visit http://icarus.parity.io/[your-verified-address] every 24 hours to receive your allowance (which will be sent to that account on the Kovan testnet). In future this service will be updated to allow for verified addresses to send Kovan Ether to other addresses.
 
+## Gitter Channel (Manual Github Verification)
+
+If you want to request to receive Kovan Ether manually, please using the gitter channel:
+
+https://gitter.im/kovan-testnet/faucet
+
+*Watch this space for updates on Kovan faucet services.*
