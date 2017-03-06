@@ -17,7 +17,7 @@ https://gitter.im/kovan-testnet/faucet
 
 *Watch this space for updates on Kovan faucet services.*
 
-## Icarus Faucet
+## Icarus Faucet (Automated SMS Verification)
 
 Pairty Technologies have set up a faucet service that requires your account to be registered via SMS using Parity. Any registered address can then receive 5 Kovan Ether every 24.
 
