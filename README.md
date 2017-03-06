@@ -27,7 +27,7 @@ https://gitter.im/kovan-testnet/faucet
 
 To reduce KETH getting into the hands of malicious parties, a restricted allowance of KETH is available.
 
-Based on your github activity, various amounts of Koven Ether will be sent based on your *ethereum-related* contributions:
+Based on your github activity, various amounts of Kovan Ether will be sent based on your *ethereum-related* contributions:
 
 * 1 - No Issues / Repos / Commits
 * 5 - < 2 Issues / Repos / Commits 
