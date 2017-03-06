@@ -38,4 +38,6 @@ Based on your github activity, various amounts of Koven Ether will be sent based
 
 Special requests can be made if justified.
 
+If you run out of KETH becuase of creating legit transactions, feel free to ask for more.
+
 *Watch this space for updates on Kovan faucet services.*
