@@ -15,7 +15,7 @@ Pairty Technologies have set up a faucet service that requires your account to b
 
 First you must verify an account on the mainnet using pairty's SMS verification service. A video walkthrough is available at: https://youtu.be/99UucFzYCRc.
 
-Once you have registered your account, you can then simply visit http://icarus.parity.io/[your-verified-address] every 24 hours to receive your allowance (which will be sent to that account on the Kovan testnet). In future this service will be updated to allow for verified addresses to send Kovan Ether to other addresses.
+Once you have registered your account, you can then simply visit http://http://faucet.kovan.network/[your-mainnet-verified-address] every 24 hours to receive your allowance (which will be sent to that account on the Kovan testnet). In future this service will be updated to allow for verified addresses to send Kovan Ether to other addresses.
 
 ## Gitter Channel (Manual Github Verification)
 
