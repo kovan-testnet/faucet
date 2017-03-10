@@ -31,7 +31,6 @@ To reduce KETH getting into the hands of malicious parties, a restricted allowan
 
 Based on your github activity, various amounts of Kovan Ether will be sent based on your *ethereum-related* contributions:
 
-* 1 - No Issues / Repos / Commits
 * 5 - < 2 Issues / Repos / Commits 
 * 10 - < 5 Issues / Repos / Commits
 * 50 - < 20 Issues / Repos / Commits
