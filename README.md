@@ -6,6 +6,7 @@ There are current 2 methods of receiving Kovan Ether:
 
 * Icarus Faucet (SMS Verified, Automated)
 * Request Via Gitter (Manually Verified)
+* Use PoW via [SmartPool](https://medium.com/smartpool/smartpool-alpha-release-472d60f1ef7b#.5tryckqwb)
 
 Additional, more convienient faucet services will be added in due course (e.g. [CAPTCHA / Github OAuth](https://github.com/kovan-testnet/KIPs/issues/2)).
 
