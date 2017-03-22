@@ -2,7 +2,7 @@
 
 The Kovan network is secured by preventing malicious actors from obtaining large amounts of Ether, but legitimate developers need to be able to receive Ether to deploy and test contracts.
 
-There are current 2 methods of receiving Kovan Ether:
+There are currently a few different methods of receiving Kovan Ether:
 
 * Icarus Faucet (SMS Verified, Automated)
 * Request Via Gitter (Manually Verified)
