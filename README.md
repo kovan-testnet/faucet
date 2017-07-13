@@ -21,7 +21,7 @@ Once you have registered your account, you can then simply visit http://faucet.k
 
 ## Github Gist Faucet ( Automated )
 
-Parity Technologies has also set up a fucet service that uses a Github Gist url to store an address where your Kovan Ether can be sent to. This allows up to 1 Kovan Ether every 24 hours. This requires you have a github account.
+Parity Technologies has also set up a faucet service that uses a Github Gist url to store an address where your Kovan Ether can be sent to. This allows up to 1 Kovan Ether every 24 hours. This requires you have a github account.
 
 Go to http://gist.github.com and then create a new entry with the text being your Kovan address, once you save this your browser should have reloaded at a new url. This url needs to be passed to the gist faucet at http://github-faucet.kovan.network/url
 
