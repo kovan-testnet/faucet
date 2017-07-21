@@ -11,7 +11,7 @@ There are currently a few different methods of receiving Kovan Ether:
 
 Additional, more convienient faucet services will be added in due course (e.g. [CAPTCHA / Github OAuth](https://github.com/kovan-testnet/KIPs/issues/2)).
 
-## Amount of transactions
+## Reqeusting Large Amounts of KETH
 
 There are few reasons for a dev to required a large amount of KETH, as a small amount can be used to make many transactions. For a typical transaction requiring 100k gas at a price of 20 gwei, you can make: `10e18 / (100000 * 20e9) = 5000` transactions. To request larger amounts, please post your rationale in the faucet channel; there should be a good reason for requesting more than the default.
 
