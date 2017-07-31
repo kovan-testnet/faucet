@@ -45,16 +45,8 @@ https://gitter.im/kovan-testnet/faucet
 
 To reduce KETH getting into the hands of malicious parties, a restricted allowance of KETH is available.
 
-Based on your github activity, various amounts of Kovan Ether will be sent based on your *ethereum-related* contributions:
+For most people, you will be given 5 KETH. If you have a special request for more, you can get up to 100 KETH (and top-up for legitimate use-cases).
 
-* 5 - < 2 Issues / Repos / Commits 
-* 10 - < 5 Issues / Repos / Commits
-* 50 - < 20 Issues / Repos / Commits
-* 500 - 100+ Issues / Repos / Commits (or Community-Trusted Developer / Team)
-* 1000 - Major Community-Trusted Dapp Development Team
-
-Special requests can be made if justified.
-
-If you run out of KETH because of creating legit transactions, feel free to ask for more.
+If even you run out of KETH because of creating legit transactions, feel free to ask for more.
 
 *Watch this space for updates on Kovan faucet services.*
