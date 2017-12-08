@@ -5,7 +5,7 @@ The Kovan network is secured by preventing malicious actors from obtaining large
 There are currently a few different methods of receiving Kovan Ether:
 
 * Icarus Faucet (SMS Verified, Automated)
-* ~~Github Gist Faucet ( Automated )~~ (Disallowed by github)
+* ~~Github Gist Faucet ( Automated )~~ (Disallowed)
 * Request Via Gitter (Manually Verified)
 * Use PoW via [SmartPool](https://medium.com/smartpool/smartpool-alpha-release-472d60f1ef7b#.5tryckqwb)
 
