@@ -12,7 +12,7 @@ https://gitter.im/kovan-testnet/faucet
 
 To reduce KETH getting into the hands of malicious parties, a restricted allowance of KETH is available.
 
-For most people, you will be given 5 KETH. If you have a special request for more, you can get up to 100 KETH (and top-up for legitimate use-cases).
+For most people, you will be given 3 KETH. If you have a special request for more, you can get up to 100 KETH (and top-up for legitimate use-cases).
 
 If even you run out of KETH because of creating legit transactions, feel free to ask for more.
 
