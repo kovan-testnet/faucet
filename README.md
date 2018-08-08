@@ -8,11 +8,9 @@ You can instantly get 1 KETH per 24h per GitHub account by visiting https://fauc
 
 ## Gitter Channel (Manual Github Verification)
 
-You can receive Kovan Ether manually (uptime is not guaranteed, and you may have to wait for a verifier to respond) using the Gitter channel:
+You can receive Kovan Ether using Gitter (uptime is not guaranteed, and you may have to wait for a verifier to respond). Simply comment with your Kovan address in the following Gitter channel:
 
 https://gitter.im/kovan-testnet/faucet
-
-Simple comment with your Kovan address.
 
 ### Manual Github Verification Rates
 
