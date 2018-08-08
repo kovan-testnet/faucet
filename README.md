@@ -2,11 +2,17 @@
 
 The Kovan network is secured by preventing malicious actors from obtaining large amounts of Ether, but legitimate developers need to be able to receive Ether to deploy and test contracts.
 
+## Faucet.kovan.network (GitHub oauth)
+
+You can instantly get 1 KETH per 24h per GitHub account by visiting https://faucet.kovan.network/ and submitting your Kovan address.
+
 ## Gitter Channel (Manual Github Verification)
 
-If you want to request to receive Kovan Ether manually (uptime is not guaranteed, and you may have to wait for a verifier to respond), please using the Gitter channel:
+You can receive Kovan Ether manually (uptime is not guaranteed, and you may have to wait for a verifier to respond) using the Gitter channel:
 
 https://gitter.im/kovan-testnet/faucet
+
+Simple comment with your Kovan address.
 
 ### Manual Github Verification Rates
 
