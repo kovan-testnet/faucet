@@ -1,28 +1,21 @@
 # Kovan Faucet
 
-The Kovan network is secured by preventing malicious actors from obtaining large amounts of Ether, but legitimate developers need to be able to receive Ether to deploy and test contracts.
+Kovan Ether (KEth) have no market value, they can be obtained for free and are meant for testing purposes only.
+
+Kovan network faucets provide Kovan Ether to legitimate developers willing to deploy and test contracts on the Kovan network. The faucets also prevent malicious actors from obtaining large amounts of Ether.
 
 ## Faucet.kovan.network (GitHub oauth)
 
-You can instantly get 1 KETH per 24h per GitHub account by visiting https://faucet.kovan.network/ and submitting your Kovan address.
+You can instantly get 1 KEth per 24h per GitHub account by visiting https://faucet.kovan.network/ and submitting your Kovan address.
 
-## Gitter Channel (Manual Github Verification)
+## Gitter Channel (Manual GitHub Verification)
 
 You can receive Kovan Ether using Gitter (uptime is not guaranteed, and you may have to wait for a verifier to respond). Simply comment with your Kovan address in the following Gitter channel:
 
 https://gitter.im/kovan-testnet/faucet
 
-### Manual Github Verification Rates
+## Requesting large amounts of KEth
 
-To reduce KETH getting into the hands of malicious parties, a restricted allowance of KETH is available.
+The above faucets allow to get 1-3 KEth.
 
-For most people, you will be given 3 KETH. If you have a special request for more, you can get up to 100 KETH (and top-up for legitimate use-cases).
-
-If even you run out of KETH because of creating legit transactions, feel free to ask for more.
-
-## Requesting Large Amounts of KETH
-
-There are few reasons for a dev to require a large amount of KETH. A small amount can be used to make many transactions. For a typical transaction requiring 100k gas at a price of 20 Gwei, you can make: `10e18 / (100000 * 20e9) = 5000` transactions with just 10 KETH. To request larger amounts, please post your rationale in the faucet channel; there should be a good reason for requesting more than the default.
-
-Additional, more convenient faucet services will be added in due course (e.g. [CAPTCHA / Github OAuth](https://github.com/kovan-testnet/KIPs/issues/2)).
-*Watch this space for updates on Kovan faucet services.*
+Many transaction can be made with small amounts of KEther. For a typical contract transaction requiring 100k gas at a price of 20 Gwei, you can make: `1e18 / (100000 * 20e9) = 500` transactions with just 1 KEth. If you need a large amount of Kovan Ether please open an issue in this repo explaining the reasons for you to request more. Exception will be handled on a case by case basis.
